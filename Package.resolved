@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FLAnimatedImage",
+        "repositoryURL": "https://github.com/lismondbernard/FLAnimatedImage",
+        "state": {
+          "branch": "SPM",
+          "revision": "cfd0ab74bd44af6e7d1bb82ab2b213e772850126",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
