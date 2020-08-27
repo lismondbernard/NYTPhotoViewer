@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PINOperation",
+        "repositoryURL": "https://github.com/pinterest/PINOperation",
+        "state": {
+          "branch": "master",
+          "revision": "2dc623bda4bc22100f76d97bb4bbf0227f2ff8c7",
+          "version": null
+        }
+      },
+      {
+        "package": "PINRemoteImage",
+        "repositoryURL": "https://github.com/lismondbernard/PINRemoteImage",
+        "state": {
+          "branch": "SPM",
+          "revision": "f6a224cb2d8fc514dd5c734476e4694011bfaa6f",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
