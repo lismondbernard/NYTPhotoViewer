@@ -24,10 +24,6 @@ let package = Package(
         .target(
             name: "NYTPhotoViewer",
             dependencies: ["FLAnimatedImage"],
-            path: "NYTPhotoViewer"),
-        .testTarget(
-            name: "NYTPhotoViewerTests",
-            dependencies: ["NYTPhotoViewer"],
-            path: "NYTPhotoViewerTests"),
+            path: "NYTPhotoViewer")
     ]
 )
