@@ -25,7 +25,7 @@ let package = Package(
             name: "NYTPhotoViewer",
             dependencies: ["FLAnimatedImage"],
             path: "NYTPhotoViewer",
-            publicHeadersPath: ".",
+            publicHeadersPath: "headers",
             cSettings: [
                 .headerSearchPath("Protocols"),
                 .headerSearchPath("Resource Loading")
